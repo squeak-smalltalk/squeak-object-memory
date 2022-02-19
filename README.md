@@ -7,4 +7,4 @@ Most issues and development concerns are handled directly on the squeak-dev mail
 
 Issues that may require longer term discussion or coordination may be tracked here in squeak-object-memory.
 
-The term "object memory" is used here to reflect the entire Squeak system (consisting of an object memory image plus a virtual machine as its execution engine). Issues that may be specific to the virtual machine may be separately tracked at https://github.com/OpenSmalltalk/opensmalltalk-vm.
+The term "object memory" is used here to reflect the entire Squeak system (consisting of an object memory image plus a virtual machine as its execution engine). Issues that are specific to the virtual machine may be separately tracked at https://github.com/OpenSmalltalk/opensmalltalk-vm.
