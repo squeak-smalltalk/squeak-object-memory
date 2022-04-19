@@ -10,6 +10,8 @@ The term "object memory" is used here to reflect the entire Squeak system (consi
 
 # Issue Tags
 
+*Only repository maintainers can assign labels/tags to issues. Yet, all people can use labels/tags to filter issues.*
+
 We organize issue tags in 3 groups: WHAT, SCOPE, RATING. Each issue should have at least a WHAT and a SCOPE tag. A RATING tag can also help clarify whether that issue is, for example, very simple or very hard or not relevant anymore. There is no rating for unknown or common importance of an issue.
 
 The WHAT tags are typical:
