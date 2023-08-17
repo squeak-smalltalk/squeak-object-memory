@@ -1,6 +1,6 @@
 # Introduction
 
-This repository hosts issues and assets related to the Squeak object memory. This means that this GitHub location is used for issue tracking for the Squeak Smalltalk system (https://squeak.org/). You can reach this page via https://bugs.squeak.org.
+This repository hosts issues *[issues](https://github.com/squeak-smalltalk/squeak-object-memory/issues)* and assets related to the Squeak object memory. This means that this GitHub location is used for issue tracking for the Squeak Smalltalk system (https://squeak.org/). You can reach this page via https://bugs.squeak.org.
 
 Note that many (if not most) issues and development concerns are handled directly on the squeak-dev mailing list (http://lists.squeakfoundation.org/cgi-bin/mailman/listinfo/squeak-dev) with updates and contributions incorporated through our development process (https://squeak.org/development_process/).
 
@@ -10,7 +10,7 @@ The term "object memory" is used here to reflect the entire Squeak system (consi
 
 # Issue Tags
 
-*Only repository maintainers can assign labels/tags to issues. Yet, all people can use labels/tags to filter issues.*
+*Only repository maintainers can assign *[labels/tags](https://github.com/squeak-smalltalk/squeak-object-memory/labels)* to issues. Yet, all people can use labels/tags to filter issues.*
 
 We organize issue tags in 3 groups: WHAT, SCOPE, RATING. Each issue should have at least a WHAT and a SCOPE tag. A RATING tag can also help clarify whether that issue is, for example, very simple or very hard or not relevant anymore. There is no rating for unknown or common importance of an issue.
 
