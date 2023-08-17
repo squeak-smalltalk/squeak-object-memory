@@ -1,6 +1,6 @@
 # Introduction
 
-This repository hosts issues and assets related to the Squeak object memory. This means that this GitHub location is used for issue tracking for the Squeak Smalltalk system (https://squeak.org/). Please do not use Mantis anymore, which is currently still reachable under bugs.squeak.org.
+This repository hosts issues and assets related to the Squeak object memory. This means that this GitHub location is used for issue tracking for the Squeak Smalltalk system (https://squeak.org/). You can reach this page via https://bugs.squeak.org.
 
 Note that many (if not most) issues and development concerns are handled directly on the squeak-dev mailing list (http://lists.squeakfoundation.org/cgi-bin/mailman/listinfo/squeak-dev) with updates and contributions incorporated through our development process (https://squeak.org/development_process/).
 
