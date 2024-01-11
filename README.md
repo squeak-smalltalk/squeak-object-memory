@@ -1,5 +1,8 @@
 # Introduction
 
+[![Create new issue](https://img.shields.io/github/issues/squeak-smalltalk/squeak-object-memory?label=create%20new%20issue)
+](https://github.com/squeak-smalltalk/squeak-object-memory/issues/new)
+
 This repository hosts issues *[issues](https://github.com/squeak-smalltalk/squeak-object-memory/issues)* and assets related to the Squeak object memory. This means that this GitHub location is used for issue tracking for the Squeak Smalltalk system (https://squeak.org/). You can reach this page via https://bugs.squeak.org.
 
 Note that many (if not most) issues and development concerns are handled directly on the squeak-dev mailing list (http://lists.squeakfoundation.org/cgi-bin/mailman/listinfo/squeak-dev) with updates and contributions incorporated through our development process (https://squeak.org/development_process/).
